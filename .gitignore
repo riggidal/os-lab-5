@@ -1,0 +1,28 @@
+# Скомпилированный бинарник
+app
+
+# Объектные и исполняемые файлы
+*.o
+*.out
+*.obj
+*.exe
+
+# Логи
+*.log
+
+# Временные файлы
+*~
+*.swp
+*.tmp
+
+# Devbox
+.devbox/
+devbox.lock
+
+# Конфигурации IDE
+.vscode/
+*.code-workspace
+.idea/
+
+# Прочее
+*.DS_Store
